@@ -163,7 +163,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.socialcv]]
     icon = "file-text"
     icon_pack = "fa"
-    link = "CV.pdf"
+    link = "MonlongJeanCV.pdf"
 
   [[params.socialcv]]
     icon = "linkedin-square"
