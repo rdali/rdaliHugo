@@ -185,12 +185,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   name = "Notes"
   url = "#notes"
-  weight = 2
+  weight = 5
 
-# [[menu.main]]
-#   name = "Publications"
-#   url = "#publications_selected"
-#   weight = 2
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
 
 # [[menu.main]]
 #   name = "Posts"
