@@ -61,7 +61,7 @@ htmlCit <- function(df){
   cat('<div class="row">')
   cat('<div class="col-md-10"><span itemprop="name">', df$title, '. <a href="https://doi.org/',
       df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div></div>', sep='')
-  cat(paste0('<div class="col-md-2"><div data-badge-type="donut" data-doi="',df$doi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed"></div></div>'))
+  cat(paste0('<div class="col-md-2"><div data-badge-type="donut" data-doi="',df$doi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-link-target="_blank"></div></div>'))
   cat('</div>')
   cat('</li>')
   data.frame()
