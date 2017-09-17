@@ -565,8 +565,12 @@ article {
 }
 
 .authorpub{
-    color: #AAAAAA;
+    color: #888888;
     font-size: 0.7rem;
+}
+
+.authorpub strong{
+    text-decoration: underline;
 }
 
 /*************************************************
