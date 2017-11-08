@@ -50,9 +50,11 @@ bib.df = lapply(bib, function(bibi){
              doi=ifelse(is.null(bibi$doi), NA, bibi$doi),
              journal=gsub('.*\\}\\{(.*)\\}', '\\1', bibi$journal),
              author=bibi$author %>% as.character %>% convertBold %>% convertStars %>% paste(collapse=', '),
+             keywords=ifelse(is.null(bibi$keywords), '', bibi$keywords),
              stringsAsFactors=FALSE)
 })
 bib.df = do.call(rbind, bib.df)
+bib.df %<>% mutate(rk=1:n())
 ```
 
 ```{r outlist, results='asis'}
@@ -68,6 +70,11 @@ htmlCit <- function(df){
 }
 
 cat('<ul class="fa-ul">')
-dump = bib.df %>% filter(!grepl('Under review', journal)) %>% arrange(desc(year)) %>% group_by(desc(year),title) %>% do(htmlCit(.))
+dump = bib.df %>% filter(!grepl('Under review', journal), !grepl('no-website', keywords)) %>% group_by(desc(year),rk,title) %>% do(htmlCit(.))
 cat('</ul>')
+
+## cat('<h3>Consortia publications</h3>\n<ul class="fa-ul">')
+## dump = bib.df %>% filter(!grepl('Under review', journal), grepl('no-website', keywords)) %>% group_by(desc(year),rk,title) %>% do(htmlCit(.))
+## cat('</ul>')
+
 ```
