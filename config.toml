@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Jean Monlong"
-copyright = "&copy; 2017 Jean Monlong"
+copyright = "&copy; 2018 Jean Monlong"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-113785126-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
