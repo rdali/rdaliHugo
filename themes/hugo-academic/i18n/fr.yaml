@@ -52,6 +52,11 @@
 - id: more_talks
   translation: Plus de présentations
 
+# Teachings widget
+
+- id: more_teachings
+  translation: Plus
+
 # Publication/Talk details
 
 - id: abstract

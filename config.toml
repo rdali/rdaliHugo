@@ -146,19 +146,24 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     link = "http://orcid.org/0000-0002-9737-5516"
 
   [[params.socialpub]]
+    icon = "pubmed"
+    icon_pack = "ai"
+    link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Monlong%2C%20Jean[Full%20Author%20Name]%20OR%20Monlong%2C%20Jean[Full%20Investigator%20Name]&cmd=DetailsSearch"
+
+  [[params.socialpub]]
+    icon = "biorxiv"
+    icon_pack = "ai"
+    link = "https://www.biorxiv.org/search/jean%20monlong"
+
+  [[params.socialpub]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=alKo_WkAAAAJ"
 
-  [[params.socialpub]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Jean_Monlong"
-
-  [[params.socialpub]]
-    icon = "pubmed"
-    icon_pack = "ai"
-    link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Monlong%2C%20Jean[Full%20Author%20Name]%20OR%20Monlong%2C%20Jean[Full%20Investigator%20Name]&cmd=DetailsSearch"
+  # [[params.socialpub]]
+  #   icon = "researchgate"
+  #   icon_pack = "ai"
+  #   link = "https://www.researchgate.net/profile/Jean_Monlong"
 
   [[params.socialcv]]
     icon = "file-text"
@@ -183,11 +188,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 1
 
 [[menu.main]]
-  name = "Notes"
-  url = "#notes"
-  weight = 5
-
-[[menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 2
@@ -202,10 +202,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #   url = "#projects"
 #   weight = 4
 
-# [[menu.main]]
-#   name = "Teaching"
-#   url = "#teaching"
-#   weight = 5
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 4
+
+[[menu.main]]
+  name = "Notes"
+  url = "#notes"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
