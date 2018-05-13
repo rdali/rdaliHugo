@@ -51,6 +51,8 @@ bib.df = lapply(bib, function(bibi){
              journal=gsub('.*\\}\\{(.*)\\}', '\\1', bibi$journal),
              author=bibi$author %>% as.character %>% convertBold %>% convertStars %>% paste(collapse=', '),
              keywords=ifelse(is.null(bibi$keywords), '', bibi$keywords),
+             preprintdoi=ifelse(is.null(bibi$preprintdoi), '', bibi$preprintdoi),
+             scripts=ifelse(is.null(bibi$scripts), '', bibi$scripts),
              stringsAsFactors=FALSE)
 })
 bib.df = do.call(rbind, bib.df)
@@ -59,10 +61,19 @@ bib.df %<>% mutate(rk=1:n())
 
 ```{r outlist, results='asis'}
 htmlCit <- function(df){
+  preprintdoi = ''
+  if(df$preprintdoi != ''){
+    preprintdoi = paste0(' <a class="btn btn-primary btn-outline btn-xs" target=\"_blank\" href="https://doi.org/', df$preprintdoi, '">Preprint</a>')
+  }
+  scripts = ''
+  if(df$scripts != ''){
+    scripts = paste0(' <a class="btn btn-primary btn-outline btn-xs" target=\"_blank\" href="', df$scripts, '">Data/Code</a>')
+  }
+  
   cat('<li itemscope itemtype="http://schema.org/CreativeWork"><i class="fa-li fa fa-file-text-o" aria-hidden="true"></i>')
   cat('<div class="row">')
   cat('<div class="col-md-10"><span itemprop="name">', df$title, '. <a target=\"_blank\" href="https://doi.org/',
-      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div></div>', sep='')
+      df$doi, '">', df$journal, ' ', df$year, '.</a></span><div class="authorpub">', df$author, '</div>', preprintdoi, scripts, '</div>', sep='')
   cat(paste0('<div class="col-md-2"><div data-badge-type="donut" data-doi="',df$doi,'" data-hide-no-mentions="true" data-hide-less-than="1" class="altmetric-embed" data-link-target="_blank"></div></div>'))
   cat('</div>')
   cat('</li>')
