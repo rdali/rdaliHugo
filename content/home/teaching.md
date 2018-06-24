@@ -9,7 +9,7 @@ subtitle = ""
 widget = "teachings_all"
 
 # Order that this section will appear in.
-weight = 3
+weight = 6
 
 # Number of talks to list.
 count = 2
@@ -18,8 +18,3 @@ count = 2
 detailed_list = false
 
 +++
-
-Between 2013 and 2018, I organized eight R workshops for the students of the Human Genetics department. Slides can be found [here](https://github.com/jmonlong/HGSS_Rworkshops). For these workshops, I received a [Certificate of Appreciation from the department](HGEN-R-recognition-JeanMonlong.pdf).
-
-Other teaching experiences include: 
-

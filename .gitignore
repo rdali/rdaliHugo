@@ -6,3 +6,5 @@ public
 *.log
 *.synctex.gz
 auto
+.DS_Store
+.Rhistory

@@ -1,7 +1,8 @@
-baseurl = "/"  # End your URL with a `/` trailing slash.
-title = "Jean Monlong"
-copyright = "&copy; 2018 Jean Monlong"
+baseurl = "https://rdali.github.io/"  # End your URL with a `/` trailing slash.
+title = "Rola Dali"
+copyright = "&copy; 2018 Rola Dali"
 theme = "hugo-academic"
+color_theme = "ocean"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
@@ -9,7 +10,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-113785126-2"
+googleAnalytics = "UA-121310298-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -21,17 +22,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   hrefTargetBlank = true
 
 [params]
-  name = "Jean Monlong"
-  role = "PhD Candidate"
-  organization = "McGill University"
-  organization_url = ""
+  name = "Rola Dali"
+  role = "Software Developer and Data Scientist @ C3G"
+  organization = "C3G"
+  organization_url = "http://www.computationalgenomics.ca/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jean.monlong@gmail.com"
+  email = "roladali@gmail.com"
   address = "Room 4200, 740 Docteur Penfield Av., H3A 1A5, Montreal, Canada"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
-  skype = "jean.monlong"
+  skype = "roladali"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -79,7 +80,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["R", "python", "bash"]
   # highlight_style = "github"
   # highlight_version = "9.9.0"
 
@@ -128,37 +129,37 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jean.monlong@gmail.com"
+    link = "mailto:roladali@gmail.com"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jmonlong"
+    link = "//github.com/rdali"
+
+  [[params.social]]
+    icon = "bitbucket"
+    icon_pack = "fa"
+    link = "//bitbucket.org/rdali/"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/JMonlong"
-
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "http://orcid.org/0000-0002-9737-5516"
+    link = "//twitter.com/rdali094"
 
   [[params.socialpub]]
     icon = "pubmed"
     icon_pack = "ai"
-    link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Monlong%2C%20Jean[Full%20Author%20Name]%20OR%20Monlong%2C%20Jean[Full%20Investigator%20Name]&cmd=DetailsSearch"
+    link = "https://www.ncbi.nlm.nih.gov/pubmed/?term=Dali%20R%5BAuthor"
 
   [[params.socialpub]]
     icon = "biorxiv"
     icon_pack = "ai"
-    link = "https://www.biorxiv.org/search/jean%20monlong"
+    link = "https://www.biorxiv.org/search/Rola%252BDali"
 
   [[params.socialpub]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=alKo_WkAAAAJ"
+    link = "https://scholar.google.ca/citations?user=p5Juoy4AAAAJ&hl=en"
 
   # [[params.socialpub]]
   #   icon = "researchgate"
@@ -168,12 +169,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.socialcv]]
     icon = "file-text"
     icon_pack = "fa"
-    link = "MonlongJeanCV.pdf"
+    link = "RolaDaliCV.pdf" ## in static
 
   [[params.socialcv]]
     icon = "linkedin-square"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/jeanmonlong/"
+    link = "https://www.linkedin.com/in/rola-dali-phd-63b7133a/"
 
 
 
@@ -188,34 +189,40 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "biography"
+  url = "#biography"
   weight = 2
 
 [[menu.main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Computer Science"
+  url = "#compSci"
   weight = 3
 
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 4
+[[menu.main]]
+  name = "Data Science"
+  url = "#dataSci"
+  weight = 4
+
+[[menu.main]]
+  name = "Research"
+  url = "#research"
+  weight = 5
+
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 4
+  weight = 6
 
 [[menu.main]]
-  name = "Notes"
-  url = "#notes"
-  weight = 5
+  name = "Blog"
+  url = "#blog"
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 8
 
 # Taxonomies.
 [taxonomies]

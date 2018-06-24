@@ -25,8 +25,4 @@ features = ["academic profile",
   name = "George Cushen"
   homepage = "https://georgecushen.com"
 
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+
