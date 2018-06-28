@@ -1,4 +1,4 @@
-baseurl = "https://rdali.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Rola Dali"
 copyright = "&copy; 2018 Rola Dali"
 theme = "hugo-academic"
