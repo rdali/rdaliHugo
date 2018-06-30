@@ -12,7 +12,7 @@ widget = "teachings_all"
 weight = 6
 
 # Number of talks to list.
-count = 2
+count = 10
 
 # Show talk details (such as abstract)? (true/false)
 detailed_list = false

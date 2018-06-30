@@ -28,8 +28,8 @@ weight = 1
   course = "B.Sc in Biochemistry"
   institution = "University of Ottawa"
   year = 2010
+
  
 +++
-
-
 I'm a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.
+

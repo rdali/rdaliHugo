@@ -1,0 +1,345 @@
+
+1. Mol Oncol. 2018 Jun;12(6):775-787. doi: 10.1002/1878-0261.12168. Epub 2018 Apr
+27.
+
+Characterization of a FOXG1:TLE1 transcriptional network in
+glioblastoma-initiating cells.
+
+Dali R(1)(2), Verginelli F(1), Pramatarova A(3), Sladek R(3), Stifani S(1).
+
+Author information: 
+(1)Department of Neurology and Neurosurgery, Montreal Neurological Institute,
+McGill University, Montreal, Canada.
+(2)McGill Center for Bioinformatics, McGill University, Montreal, Canada.
+(3)Departments of Human Genetics and Medicine, McGill University, Montreal,
+Canada.
+
+Glioblastoma (GBM) is the most common and deadly malignant brain cancer of glial 
+cell origin, with a median patient survival of less than 20 months. Transcription
+factors FOXG1 and TLE1 promote GBM propagation by supporting maintenance of brain
+tumour-initiating cells (BTICs) with stem-like properties. Here, we characterize 
+FOXG1 and TLE1 target genes in GBM patient-derived BTICs using ChIP-Seq and
+RNA-Seq approaches. These studies identify 150 direct FOXG1 targets, several of
+which are also TLE1 targets, involved in cell proliferation, differentiation,
+survival, chemotaxis and angiogenesis. Negative regulators of NOTCH signalling,
+including CHAC1, are among the transcriptional repression targets of FOXG1:TLE1
+complexes, suggesting a crosstalk between FOXG1:TLE1 and NOTCH-mediated pathways 
+in GBM. These results provide previously unavailable insight into the
+transcriptional programs underlying the tumour-promoting functions of FOXG1:TLE1 
+in GBM.
+
+© 2018 The Authors. Published by FEBS Press and John Wiley & Sons Ltd.
+
+DOI: 10.1002/1878-0261.12168 
+PMCID: PMC5983107
+PMID: 29316219 
+
+
+2. Nucleic Acids Res. 2017 Apr 7;45(6):2994-3005. doi: 10.1093/nar/gkx145.
+
+A critical assessment of topologically associating domain prediction tools.
+
+Dali R(1), Blanchette M(1).
+
+Author information: 
+(1)School of Computer Science and McGill Centre for Bioinformatics, McGill
+University, Montreal, Canada.
+
+Topologically associating domains (TADs) have been proposed to be the basic unit 
+of chromosome folding and have been shown to play key roles in genome
+organization and gene regulation. Several different tools are available for TAD
+prediction, but their properties have never been thoroughly assessed. In this
+manuscript, we compare the output of seven different TAD prediction tools on two 
+published Hi-C data sets. TAD predictions varied greatly between tools in number,
+size distribution and other biological properties. Assessed against a manual
+annotation of TADs, individual TAD boundary predictions were found to be quite
+reliable, but their assembly into complete TAD structures was much less so. In
+addition, many tools were sensitive to sequencing depth and resolution of the
+interaction frequency matrix. This manuscript provides users and designers of TAD
+prediction tools with information that will help guide the choice of tools and
+the interpretation of their predictions.
+
+© The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gkx145 
+PMCID: PMC5389712
+PMID: 28334773  [Indexed for MEDLINE]
+
+
+3. Brain Struct Funct. 2016 Nov;221(8):4187-4202. Epub 2015 Dec 19.
+
+Transcriptional regulation of mouse hypoglossal motor neuron somatotopic map
+formation.
+
+Chen X(1)(2)(3), Wang JW(1), Salin-Cantegrel A(1), Dali R(1)(4), Stifani S(5).
+
+Author information: 
+(1)Department of Neurology and Neurosurgery, Montreal Neurological Institute,
+McGill University, Montreal, QC, Canada.
+(2)Tianjin Neurological Institute, Tianjin Medical University General Hospital,
+Tianjin, China.
+(3)Department of Neurosurgery, Tianjin Neurological Institute, Tianjin Medical
+University General Hospital, Tianjin, China.
+(4)McGill Center for Bioinformatics, McGill University, Montreal, QC, Canada.
+(5)Department of Neurology and Neurosurgery, Montreal Neurological Institute,
+McGill University, Montreal, QC, Canada. stefano.stifani@mcgill.ca.
+
+Somatic motor neurons in the hypoglossal nucleus innervate tongue muscles
+controlling vital functions such as chewing, swallowing and respiration.
+Formation of functional hypoglossal nerve circuits depends on the establishment
+of precise hypoglossal motor neuron maps correlating with specific tongue muscle 
+innervations. Little is known about the molecular mechanisms controlling
+mammalian hypoglossal motor neuron topographic map formation. Here we show that
+combinatorial expression of transcription factors Runx1, SCIP and FoxP1 defines
+separate mouse hypoglossal motor neuron groups with different topological,
+neurotransmitter and calcium-buffering phenotypes. Runx1 and SCIP are coexpressed
+in ventromedial hypoglossal motor neurons involved in control of tongue
+protrusion whereas FoxP1 is expressed in dorsomedial motor neurons associated
+with tongue retraction. Establishment of separate hypoglossal motor neuron maps
+depends in part on Runx1-mediated suppression of ventrolateral and dorsomedial
+motor neuron phenotypes and regulation of FoxP1 expression pattern. These
+findings suggest that combinatorial actions of Runx1, SCIP and FoxP1 are
+important for mouse hypoglossal nucleus somatotopic map formation.
+
+DOI: 10.1007/s00429-015-1160-2 
+PMID: 26687503  [Indexed for MEDLINE]
+
+
+4. Proc Natl Acad Sci U S A. 2014 Jan 28;111(4):1415-20. doi:
+10.1073/pnas.1312993111. Epub 2014 Jan 13.
+
+Cyclin D2 is a GATA4 cofactor in cardiogenesis.
+
+Yamak A(1), Latinkic BV, Dali R, Temsah R, Nemer M.
+
+Author information: 
+(1)Laboratory of Cardiac Development and Differentiation, Department of
+Biochemistry, Microbiology, and Immunology, University of Ottawa, Ottawa, ON,
+Canada, K1N 6N5.
+
+The G1 cyclins play a pivotal role in regulation of cell differentiation and
+proliferation. The mechanisms underlying their cell-specific roles are
+incompletely understood. Here, we show that a G1 cyclin, cyclin D2 (CycD2),
+enhances the activity of transcription factor GATA4, a key regulator of
+cardiomyocyte growth and differentiation. GATA4 recruits CycD2 to its target
+promoters, and their interaction results in synergistic activation of
+GATA-dependent transcription. This effect is specific to CycD2 because CycD1 is
+unable to potentiate activity of GATA4 and is CDK-independent. GATA4 physically
+interacts with CycD2 through a discreet N-terminal activation domain that is
+essential for the cardiogenic activity of GATA4. Human mutations in this domain
+that are linked to congenital heart disease interfere with CycD2-GATA4 synergy.
+Cardiogenesis assays in Xenopus embryos indicate that CycD2 enhances the
+cardiogenic function of GATA4. Together, our data uncover a role for CycD2 as a
+cardiogenic coactivator of GATA4 and suggest a paradigm for cell-specific effects
+of cyclin Ds.
+
+DOI: 10.1073/pnas.1312993111 
+PMCID: PMC3910654
+PMID: 24474767  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+5. Nat Commun. 2013;4:2956. doi: 10.1038/ncomms3956.
+
+Transcription factors FOXG1 and Groucho/TLE promote glioblastoma growth.
+
+Verginelli F(1), Perin A(2), Dali R(3), Fung KH(3), Lo R(3), Longatti P(4), Guiot
+MC(5), Del Maestro RF(6), Rossi S(7), di Porzio U(8), Stechishin O(9), Weiss
+S(9), Stifani S(3).
+
+Author information: 
+(1)1] Centre for Neuronal Survival, Montreal Neurological Institute and Hospital,
+McGill University, Montreal, Quebec, Canada H3A 2B4 [2].
+(2)1] Centre for Neuronal Survival, Montreal Neurological Institute and Hospital,
+McGill University, Montreal, Quebec, Canada H3A 2B4 [2] [3].
+(3)Centre for Neuronal Survival, Montreal Neurological Institute and Hospital,
+McGill University, Montreal, Quebec, Canada H3A 2B4.
+(4)Department of Neurosurgery, Treviso Hospital, University of Padova, Padova
+31100, Italy.
+(5)Department of Neuropathology, Montreal Neurological Institute and Hospital,
+McGill University, Montreal, Quebec, Canada H3A 2B4.
+(6)Brain Tumour Research Centre, Montreal Neurological Institute and Hospital,
+McGill University, Montreal, Quebec, Canada H3A 2B4.
+(7)Department of Pathology, Treviso Hospital, University of Padova, Padova 31100,
+Italy.
+(8)Institute of Genetics and Biophysics, Adriano Buzzati Traverso, Napoli 80131, 
+Italy.
+(9)Department of Cell Biology and Anatomy, Hotchkiss Brain Institute, University 
+of Calgary, Calgary, Alberta, Canada T2N 4N1.
+
+Glioblastoma (GBM) is the most common and deadly malignant brain cancer, with a
+median survival of <2 years. GBM displays a cellular complexity that includes
+brain tumour-initiating cells (BTICs), which are considered as potential key
+targets for GBM therapies. Here we show that the transcription factors FOXG1 and 
+Groucho/TLE are expressed in poorly differentiated astroglial cells in human GBM 
+specimens and in primary cultures of GBM-derived BTICs, where they form a
+complex. FOXG1 knockdown in BTICs causes downregulation of neural stem/progenitor
+and proliferation markers, increased replicative senescence, upregulation of
+astroglial differentiation genes and decreased BTIC-initiated tumour growth after
+intracranial transplantation into host mice. These effects are phenocopied by
+Groucho/TLE knockdown or dominant inhibition of the FOXG1:Groucho/TLE complex.
+These results provide evidence that transcriptional programmes regulated by FOXG1
+and Groucho/TLE are important for BTIC-initiated brain tumour growth, implicating
+FOXG1 and Groucho/TLE in GBM tumourigenesis.
+
+DOI: 10.1038/ncomms3956 
+PMCID: PMC3984242
+PMID: 24356439  [Indexed for MEDLINE]
+
+
+6. Cell Death Differ. 2014 Feb;21(2):321-32. doi: 10.1038/cdd.2013.160. Epub 2013
+Nov 22.
+
+Prolyl isomerase Pin1 and protein kinase HIPK2 cooperate to promote cortical
+neurogenesis by suppressing Groucho/TLE:Hes1-mediated inhibition of neuronal
+differentiation.
+
+Ciarapica R(1), Methot L(2), Tang Y(2), Lo R(2), Dali R(2), Buscarlet M(2),
+Locatelli F(3), del Sal G(4), Rota R(5), Stifani S(2).
+
+Author information: 
+(1)1] Montreal Neurological Institute, McGill University, 3801 rue University,
+Montreal, Quebec H3A2B4, Canada [2] Department of Oncohematology, Ospedale
+Pediatrico Bambino Gesù, IRCCS, Roma, Italy.
+(2)Montreal Neurological Institute, McGill University, 3801 rue University,
+Montreal, Quebec H3A2B4, Canada.
+(3)1] Department of Oncohematology, Ospedale Pediatrico Bambino Gesù, IRCCS,
+Roma, Italy [2] University of Pavia, Pavia, Italy.
+(4)1] Laboratorio Nazionale CIB, Area Science Park, Trieste, Italy [2]
+Dipartimento di Scienze della Vita, Università degli Studi di Trieste, Trieste,
+Italy.
+(5)Department of Oncohematology, Ospedale Pediatrico Bambino Gesù, IRCCS, Roma,
+Italy.
+
+The Groucho/transducin-like Enhancer of split 1 (Gro/TLE1):Hes1 transcriptional
+repression complex acts in cerebral cortical neural progenitor cells to inhibit
+neuronal differentiation. The molecular mechanisms that regulate the
+anti-neurogenic function of the Gro/TLE1:Hes1 complex during cortical
+neurogenesis remain to be defined. Here we show that prolyl isomerase Pin1
+(peptidyl-prolyl cis-trans isomerase NIMA-interacting 1) and
+homeodomain-interacting protein kinase 2 (HIPK2) are expressed in cortical neural
+progenitor cells and form a complex that interacts with the Gro/TLE1:Hes1
+complex. This association depends on the enzymatic activities of both HIPK2 and
+Pin1, as well as on the association of Gro/TLE1 with Hes1, but is independent of 
+the previously described Hes1-activated phosphorylation of Gro/TLE1. Interaction 
+with the Pin1:HIPK2 complex results in Gro/TLE1 hyperphosphorylation and weakens 
+both the transcriptional repression activity and the anti-neurogenic function of 
+the Gro/TLE1:Hes1 complex. These results provide evidence that HIPK2 and Pin1
+work together to promote cortical neurogenesis, at least in part, by suppressing 
+Gro/TLE1:Hes1-mediated inhibition of neuronal differentiation.
+
+DOI: 10.1038/cdd.2013.160 
+PMCID: PMC3890956
+PMID: 24270405  [Indexed for MEDLINE]
+
+
+7. PLoS One. 2012;7(11):e50305. doi: 10.1371/journal.pone.0050305. Epub 2012 Nov 21.
+
+Multivariate phenotypic divergence due to the fixation of beneficial mutations in
+experimentally evolved lineages of a filamentous fungus.
+
+Schoustra SE(1), Punzalan D, Dali R, Rundle HD, Kassen R.
+
+Author information: 
+(1)Department of Biology, University of Ottawa, Ottawa, Ontario, Canada.
+sijmen.schoustra@wur.nl
+
+The potential for evolutionary change is limited by the availability of genetic
+variation. Mutations are the ultimate source of new alleles, yet there have been 
+few experimental investigations of the role of novel mutations in multivariate
+phenotypic evolution. Here, we evaluated the degree of multivariate phenotypic
+divergence observed in a long-term evolution experiment whereby replicate
+lineages of the filamentous fungus Aspergillus nidulans were derived from a
+single genotype and allowed to fix novel (beneficial) mutations while maintained 
+at two different population sizes. We asked three fundamental questions regarding
+phenotypic divergence following approximately 800 generations of adaptation: (1) 
+whether divergence was limited by mutational supply, (2) whether divergence
+proceeded in relatively many (few) multivariate directions, and (3) to what
+degree phenotypic divergence scaled with changes in fitness (i.e. adaptation). We
+found no evidence that mutational supply limited phenotypic divergence.
+Divergence also occurred in all possible phenotypic directions, implying that
+pleiotropy was either weak or sufficiently variable among new mutations so as not
+to constrain the direction of multivariate evolution. The degree of total
+phenotypic divergence from the common ancestor was positively correlated with the
+extent of adaptation. These results are discussed in the context of the evolution
+of complex phenotypes through the input of adaptive mutations.
+
+DOI: 10.1371/journal.pone.0050305 
+PMCID: PMC3504003
+PMID: 23185601  [Indexed for MEDLINE]
+
+
+8. BMC Microbiol. 2012 Mar 22;12:40. doi: 10.1186/1471-2180-12-40.
+
+Antagonistic interactions peak at intermediate genetic distance in clinical and
+laboratory strains of Pseudomonas aeruginosa.
+
+Schoustra SE(1), Dench J, Dali R, Aaron SD, Kassen R.
+
+Author information: 
+(1)Biology Department, University of Ottawa, 30 Marie Curie, Ottawa, ON K1N 6N5, 
+Canada. Sijmen.Schoustra@wur.nl
+
+BACKGROUND: Bacteria excrete costly toxins to defend their ecological niche. The 
+evolution of such antagonistic interactions between individuals is expected to
+depend on both the social environment and the strength of resource competition.
+Antagonism is expected to be weak among highly similar genotypes because most
+individuals are immune to antagonistic agents and among dissimilar genotypes
+because these are unlikely to be competing for the same resources and antagonism 
+should not yield much benefit. The strength of antagonism is therefore expected
+to peak at intermediate genetic distance.
+RESULTS: We studied the ability of laboratory strains of Pseudomonas aeruginosa
+to prevent growth of 55 different clinical P. aeruginosa isolates derived from
+cystic fibrosis patients. Genetic distance was determined using genetic
+fingerprints. We found that the strength of antagonism was maximal among
+genotypes of intermediate genetic distance and we show that genetic distance and 
+resource use are linked.
+CONCLUSIONS: Our results suggest that the importance of social interactions like 
+antagonism may be modulated by the strength of resource competition.
+
+DOI: 10.1186/1471-2180-12-40 
+PMCID: PMC3391984
+PMID: 22439760  [Indexed for MEDLINE]
+
+
+9. Curr Biol. 2010 Aug 10;20(15):1350-5. doi: 10.1016/j.cub.2010.05.060. Epub 2010
+Jul 1.
+
+Fitness-associated sexual reproduction in a filamentous fungus.
+
+Schoustra S(1), Rundle HD, Dali R, Kassen R.
+
+Author information: 
+(1)Department of Biology, Center for Applied Research in Environmental Genomics, 
+University of Ottawa, 30 Marie Curie, Ottawa, Ontario, Canada.
+sijmen.schoustra@uottawa.ca
+
+Comment in
+    Curr Biol. 2010 Aug 10;20(15):R637-9.
+
+Sex is a long-standing evolutionary enigma. Although the majority of eukaryotes
+reproduce sexually at least sometimes [1-3], the evolution of sex from an asexual
+ancestor has been difficult to explain because it requires sexually reproducing
+lineages to overcome the manifold costs of sex, including the destruction of
+favorable gene combinations created by selection [4, 5]. Conditions for the
+evolution of sex are much broader if individuals can reproduce either sexually or
+asexually (i.e., facultative sex) and allocate disproportionately more resources 
+to sex when their fitness is low (fitness-associated-sex or FAS [6-10]). Although
+facultatively sexual organisms have been shown to engage in more sex when
+stressed [11], direct evidence for FAS is lacking. We provide evidence using 53
+genotypes of the filamentous fungus Aspergillus nidulans in a reciprocal
+transplant experiment across three environments. Different genotypes achieved
+highest fitness in different environments and genotypes invested relatively more 
+in sex in environments in which their fitness was lower, showing that allocation 
+to sexual reproduction is a function of how well-adapted a genotype is to its
+environment. FAS in A. nidulans is unlikely to have evolved as a strategy to
+resist or avoid stress because asexual spores are more dispersive and equally
+resistant [12, 13].
+
+Copyright (c) 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2010.05.060 
+PMID: 20598542  [Indexed for MEDLINE]
+
