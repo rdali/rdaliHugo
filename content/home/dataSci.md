@@ -13,3 +13,26 @@ widget = "custom"
 weight = 5
 
 +++
+
+
+<span style="font-size:larger; color:#0095eb">**Computer Science:**</span>   
+*__Programming:__*  
+ 
+ *Open Source software contributions:*  
+ [GenPipes](https://bitbucket.org/mugqic/genpipes/src/master/)  
+ [MultiQC](https://github.com/ewels/MultiQC)  
+ [MultiQC_C3G plugin](https://bitbucket.org/mugqic/multiqc_c3g/src/master/)  
+ [RobusTAD](https://github.com/rdali/RobusTAD)  
+ [mugqic_tools](https://bitbucket.org/mugqic/mugqic_tools/src)  
+
+ 
+*__Relevant Courses:__*    
+
+<span style="font-size:larger; color:#0095eb">**Statistics:**</span>   
+
+*__Relevant Courses:__*  
+
+<span style="font-size:larger; color:#0095eb">**Data Science:**</span>   
+
+*__Relevant Courses:__*  
+
