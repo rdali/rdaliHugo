@@ -64,7 +64,16 @@ Docker, Virtual machines, GSoC Admin for 2018, Hackathon: McHacks 2017
 </ul>
 </span>   
 
+ 
+*__Open Source software contributions:__*   
+[GenPipes](https://bitbucket.org/mugqic/genpipes/src/master/)  
+[MultiQC](https://github.com/ewels/MultiQC)  
+[MultiQC_C3G plugin](https://bitbucket.org/mugqic/multiqc_c3g/src/master/)  
+[RobusTAD](https://github.com/rdali/RobusTAD)  
+[mugqic_tools](https://bitbucket.org/mugqic/mugqic_tools/src)  
 
+
+ <br/>
 <span style="font-size:larger; color:#0095eb">**Current Research:**</span>   
 
 I am part of the Technology Development team @ C3G.   
