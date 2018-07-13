@@ -3,7 +3,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 
 date = "2016-04-20T00:00:00"
-draft = false
+draft = true
 
 title = "Data Science"
 subtitle = ""
@@ -16,7 +16,9 @@ weight = 5
 
 
 <span style="font-size:larger; color:#0095eb">**Computer Science:**</span>   
-*__Programming:__*  
+
+I spent 4 years of my PhD in the Computer Science Department at McGill University. I also took several computer science courses at McGill. I use a wide array of programming languages, depending on the task, but focus mainly on python and R for their efficacy with data analysis tasks. 
+
  
  *Open Source software contributions:*  
  [GenPipes](https://bitbucket.org/mugqic/genpipes/src/master/)  
@@ -26,8 +28,6 @@ weight = 5
  [mugqic_tools](https://bitbucket.org/mugqic/mugqic_tools/src)  
 
  
-*__Relevant Courses:__*    
-
 <span style="font-size:larger; color:#0095eb">**Statistics:**</span>   
 
 *__Relevant Courses:__*  

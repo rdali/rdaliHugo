@@ -23,8 +23,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   name = "Rola Dali"
-  role = "Software Developer and Data Scientist @ C3G"
-  organization = "C3G"
+  role = "Software Developer and Data Analyst"
+  organization = "@ C3G/McGill University"
   organization_url = "http://www.computationalgenomics.ca/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -200,10 +200,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   weight = 3
 
 
-[[menu.main]]
-  name = "Data Science"
-  url = "#dataSci"
-  weight = 5
+#[[menu.main]]
+#  name = "Data Science"
+#  url = "#dataSci"
+#  weight = 5
 
 
 [[menu.main]]

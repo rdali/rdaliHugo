@@ -20,9 +20,15 @@ weight = 2
  <br/>
  <br/>
   
- I am a Software Developer and Data Scientist at C3G, probing questions related to human health by building and using bioinformatics tools.
+ I am a Software Developer and Data Analyst at C3G, probing questions related to human health by building and using bioinformatics tools.
   
 <span style="font-size:larger; color:#0095eb">**Education:**</span> 
+
+*__Professional Development Certificate in Data Science and Machine Learning__*
+McGill University  
+2018-2019 
+
+<br/>
 
 *__PhD in NeuroScience & Bioinformatics__*  
 McGill University  
@@ -59,16 +65,51 @@ Docker, Virtual machines, GSoC Admin for 2018, Hackathon: McHacks 2017
 </span>   
 
 
-<span style="font-size:larger; color:#0095eb">**General Skills:**</span>   
-
-
-
 <span style="font-size:larger; color:#0095eb">**Current Research:**</span>   
+
+I am part of the Technology Development team @ C3G.   
+We develop open source tools for the Genomics analysis community.  
+Check out some of our tools on our website or on our bitbucket repository, linked below.  
+
+
+My current research revolves around understanding the human cell in health and disease. I look at various genomics data, such as gene expresion, DNA binding and DNA folding, to understand cellular differntiation and disease.  
+Check out some of my manuscripts linked below!
 
 
 <span style="font-size:larger; color:#0095eb">**Experience:**</span>   
 
- 
+ *__C3G Technology Development Team__* - Montreal, QC   
+July 2017 - current    
+Software Developer & Data Analyst 
+
+
+*__Integrated Program of Neuroscience - McGill University__* - Montreal, QC    
+Jan 2014 - Jun 2017   
+PhD candidate in Neuroscience  
+Mathieu Blanchette Lab  
+
+*__Montreal Neurological Institute - McGill University__*  - Montreal, QC   
+Jan 2011 - Jan2014    
+PhD candidate in Neuroscience  
+Stefano Stifani Lab  
+
+
+*__IMBS Department - Massey University__*  - Palmerston North, NZ    
+Oct 2010 - Dec 2010      
+Massey University Summer Scholarship  
+Barry Scott Lab    
+
+
+*__BMI Department - University of Ottawa__* - Ottawa, ON  
+May 2009 - Oct 2010
+NSERC summer student & Honours student
+Mona Nemer Lab  
+
+*__Biology Department - University of Ottawa__* - Ottawa, ON  
+May 2008 - May 2009   
+ NSERC summer student & Work-Study Program  
+ Rees Kassen Lab  
+
  
  
  
