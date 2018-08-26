@@ -78,10 +78,10 @@ Docker, Virtual machines, GSoC Admin for 2018, Hackathon: McHacks 2017
 
 I am part of the Technology Development team @ C3G.   
 We develop open source tools for the Genomics analysis community.  
-Check out some of our tools on our website or on our bitbucket repository, linked below.  
+Check out some of our tools on [our website](http://www.computationalgenomics.ca/) or on our [bitbucket repository](https://bitbucket.org/account/user/mugqic/projects/PROJ).  
 
 
-My current research revolves around understanding the human cell in health and disease. I look at various genomics data, such as gene expresion, DNA binding and DNA folding, to understand cellular differntiation and disease.  
+My current research revolves around understanding the human cell in health and disease. I look at various genomics data, such as gene expresion, DNA binding and DNA folding, to understand cellular differentiation and disease.  
 Check out some of my manuscripts linked below!
 
 
