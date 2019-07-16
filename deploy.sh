@@ -5,6 +5,7 @@ git add --all
 git commit -am "update"
 git push
 
+
 ## build .io pages and update:
 hugo -d ~/githubPages/rdali.github.io
 cd ~/githubPages/rdali.github.io/
