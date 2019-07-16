@@ -67,12 +67,12 @@ Docker, Virtual machines, GSoC Admin for 2018, Hackathon: McHacks 2017
 
  
 *__Open Source software contributions:__*   
-[GenPipes](https://bitbucket.org/mugqic/genpipes/src/master/)
-[RobusTAD](https://github.com/rdali/RobusTAD)  
-[HiCUP](https://www.bioinformatics.babraham.ac.uk/projects/hicup/)
-[MultiQC](https://github.com/ewels/MultiQC)  
-[MultiQC_C3G plugin](https://bitbucket.org/mugqic/multiqc_c3g/src/master/)  
-[mugqic_tools](https://bitbucket.org/mugqic/mugqic_tools/src)  
+[GenPipes](https://bitbucket.org/mugqic/genpipes/src/master/)    
+[RobusTAD](https://github.com/rdali/RobusTAD)    
+[HiCUP](https://www.bioinformatics.babraham.ac.uk/projects/hicup/)  
+[MultiQC](https://github.com/ewels/MultiQC)    
+[MultiQC_C3G plugin](https://bitbucket.org/mugqic/multiqc_c3g/src/master/)    
+[mugqic_tools](https://bitbucket.org/mugqic/mugqic_tools/src)    
 
 
  <br/>
@@ -88,6 +88,8 @@ Check out some of my manuscripts linked below!
 
 
 <span style="font-size:larger; color:#0095eb">**Experience:**</span>   
+
+<br/>
 
  *__C3G Technology Development Team__* - Montreal, QC   
 July 2017 - current    
@@ -118,7 +120,8 @@ My role involves several tasks at C3G, under three broad categories:
 - Organization administrator and mentor for Google Season of Docs (2019).
 - Lead and managed bioinformatics workshops with a team of 4-5 people. Handled all logistics, including creating/curating tutorial material, room booking, scheduling, user registration, refunds, catering, feedback collection...
 
-
+<br/>
+<br/>
 
 *__Integrated Program of Neuroscience - McGill University__* - Montreal, QC    
 Jan 2014 - Jun 2017   
@@ -128,12 +131,17 @@ Mathieu Blanchette Lab  (Computer Science Department)
 - Worked on understanding chromatin structure in Brain Cancer through genomics Hi-C analysis. 
 - developed computational tools to facilitate data analysis.
 
+<br/>
+<br/>
+
 *__Montreal Neurological Institute - McGill University__*  - Montreal, QC   
 Jan 2011 - Jan2014    
 PhD candidate in Neuroscience  
 
 - Worked on identifying molecular mechanisms involved in Brain Cancer development using a combination of molecular biology techniques, bioinformatics tools and statistical approached.
 
+<br/>
+<br/>
 
 *__IMBS Department - Massey University__*  - Palmerston North, NZ    
 Oct 2010 - Dec 2010      
@@ -142,6 +150,9 @@ Barry Scott Lab
 
 - Worked on understanding the molecular basis of symbiotic interactions between fungus ,Epichloe festucae, and plants, perennial ryegrass. 
 
+<br/>
+<br/>
+
 *__BMI Department - University of Ottawa__* - Ottawa, ON  
 May 2009 - Oct 2010
 NSERC summer student & Honours student
@@ -149,12 +160,18 @@ Mona Nemer Lab
 
 - Worked on investigating gene networks in cardiac cells, specifically, the effect of cyclinD2 expression on cardiac regeneration.  
 
+<br/>
+<br/>
+
 *__Biology Department - University of Ottawa__* - Ottawa, ON  
 May 2008 - May 2009   
  NSERC summer student & Work-Study Program  
  Rees Kassen Lab  
 
  -Worked on isolating novel antibiotics by applying selective pressure on bacteria that naturally produce bio-active molecules.
+ 
+ <br/>
+ <br/>
  
  
 
