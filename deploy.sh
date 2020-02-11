@@ -1,16 +1,28 @@
-## deploy and update website:
 
-## commit and push rdaliHugo to github:
-git add --all
-git commit -am "update"
-git push
+#!/bin/bash
 
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-## build .io pages and update:
-hugo -d ~/githubPages/rdali.github.io
-cd ~/githubPages/rdali.github.io/
-## commit and push to github and remove the readme file. Then rdali.github.io is live.
-git add --all
-git commit -am "update"
-git push
+# Pull latest version of website/public folder
+cd public
+git pull -f
+cd ..
 
+# Build the project.
+Rscript -e "blogdown::build_site()"
+
+# Add changes to public folder
+cd public
+git add .
+msg="rebuilding site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+msg="$1"
+git commit -m "$msg"
+
+# Push source and build repos.
+git push origin master
+
+# Come Back up to the Project Root
+cd ..
