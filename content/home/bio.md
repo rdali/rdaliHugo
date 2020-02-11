@@ -60,7 +60,7 @@ Framework development
 Software installation and configuration
 Automated testing using Jenkins
 <li>**Miscellaneous:**  </li>
-Docker, Virtual machines, GSoC Admin for 2018, Hackathon: McHacks 2017  
+Docker, Virtual machines, GSoC Admin for 2018/2019/2020, Season of Docs Admin for 2020, Hackathon: McHacks 2017  
  <br/>
 </ul>
 </span>   
