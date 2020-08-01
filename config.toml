@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Rola Dali"
-copyright = "&copy; 2018 Rola Dali"
+copyright = "&copy; 2020 Rola Dali"
 theme = "hugo-academic"
 color_theme = "ocean"
 enableEmoji = true

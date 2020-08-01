@@ -13,7 +13,7 @@ Rscript -e "blogdown::build_site()"
 
 # Add changes to public folder
 cd public
-git add .
+git add --all
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
