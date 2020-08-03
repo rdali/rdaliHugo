@@ -13,7 +13,7 @@ active = true
 
 
 # Order that this section will appear in.
-weight = 2
+weight = 3
 
 
 +++
@@ -22,30 +22,7 @@ weight = 2
   
  I am a Software Developer and Data Analyst at McGill University's C3G, probing questions related to human health by building and using bioinformatics tools.
   
-<span style="font-size:larger; color:#0095eb">**Education:**</span> 
-
-*__Professional Development Certificate in Data Science and Machine Learning__*
-McGill University  
-2018-2019 
-
-<br/>
-
-*__PhD in NeuroScience & Bioinformatics__*  
-McGill University  
-2011-2017  
- 
- <br/>
- 
- *__B.Sc in Biochemistry__*   
- University of Ottawa  
- 2006-2010  
-
- <br/>
-<span style="
- li:before {
-  content: "+";
-}">
-<span style="font-size:larger; color:#0095eb">**Programming Skills:**</span>   
+**Programming Skills:**
 <ul>
 <li>**Python:**  </li>
 numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks  
@@ -75,8 +52,7 @@ Docker, Virtual machines, GSoC Admin for 2018/2019/2020, Season of Docs Admin fo
 [mugqic_tools](https://bitbucket.org/mugqic/mugqic_tools/src)    
 
 
- <br/>
-<span style="font-size:larger; color:#0095eb">**Current Research:**</span>   
+**Current Research:** 
 
 I am part of the Technology Development team @ C3G/McGill University.   
 We develop open source tools for the genomics community, analyze data for large consortia and train academics in bioinformatics.  
@@ -87,7 +63,7 @@ My current research revolves around understanding the human cell in health and d
 Check out some of my manuscripts linked below!
 
 
-<span style="font-size:larger; color:#0095eb">**Experience:**</span>   
+**Experience:**  
 
 <br/>
 
