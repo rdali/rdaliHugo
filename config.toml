@@ -199,16 +199,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "#bio"
   weight = 2
 
+
+
+[[menu.main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 4
+
+[[menu.main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 5
+
 [[menu.main]]
   name = "Education"
   url = "#education"
-  weight = 3
-
+  weight = 6
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 4
+  weight = 7
 
 
 #[[menu.main]]
@@ -220,17 +231,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 6
+  weight = 8
 
 [[menu.main]]
   name = "Blog"
   url = "#blog"
-  weight = 7
+  weight = 10
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 12
 
 # Taxonomies.
 [taxonomies]
