@@ -22,16 +22,26 @@ weight = 4
 numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks  
 <li>**R:**  </li>
 ggplot2, lattice, base R, limma, Genomics Ranges, R markdown notebooks  
-<li>**Other languages:** Bash, awk , Java     </li>
-<li>**Markdown & styling:** HTML, CSS, markdown  </li>
-<li>**Version control using git**: github, bitbucket (user: rdali)  </li>
-<li>**High Performance Computing**: Batch, PBS/Torque, Slurm  </li>
-<li>**Operating Systems:** Mac, Linux, Windows  </li>
-Framework development 
-Software installation and configuration
-Automated testing using Jenkins
-<li>**Miscellaneous:**  </li>
-Docker, Virtual machines, GSoC Admin for 2018/2019/2020, Season of Docs Admin for 2019, Hackathon: McHacks 2017  
+<li>**Other languages:**</li>
+Bash, awk , Java
+<li>**Markdown & styling:**</li>
+HTML, CSS, markdown
+<li>**Version control using git:**</li>
+github, bitbucket (user: rdali)
+<li>**High Performance Computing:**
+Batch, PBS/Torque, Slurm
+<li>**Operating Systems:**</li>
+Mac, Linux, Windows
+
+
+<li>**Miscellaneous:** </li>
+Framework development  
+Software installation and configuration  
+Automated testing using Jenkins  
+Docker, Virtual machines  
+GSoC Admin for 2018/2019/2020  
+Season of Docs Admin for 2019  
+Hackathons: McHacks 2017  
  <br/>
 </ul>
   
