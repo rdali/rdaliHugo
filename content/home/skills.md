@@ -15,35 +15,22 @@ weight = 4
 
 
 +++
-  
-**Programming Skills:**
-<ul>
-<li>**Python:**  </li>
-numpy, pandas, matplotlib, seaborn, ggplot2, plotly, sklearn, Keras, jupyter notebooks  
-<li>**R:**  </li>
-ggplot2, lattice, base R, limma, Genomics Ranges, R markdown notebooks  
-<li>**Other languages:**</li>
-Bash, awk , Java
-<li>**Markdown & styling:**</li>
-HTML, CSS, markdown
-<li>**Version control using git:**</li>
-github, bitbucket (user: rdali)
-<li>**High Performance Computing:**
-Batch, PBS/Torque, Slurm
-<li>**Operating Systems:**</li>
-Mac, Linux, Windows
+
+I have a wide variety of skills, resulting from my very diverse background from research science to development. I think of myself as a knowledge nomad of sorts.
+
+My field of expertise is primarily ***DATA***. I have worked in data related fields for as long as I can remember. I started in data entry at 16 years old and have since been moving through the data ecosystem to understand the full data lifecycle.
+
+**Skills to mentions:** Data Quality/profiling and standardization, Data Analytics & BI, Machine Learning Skills, Data visualization, Specialized data types (Bioinformatics, Geospatial)...
+
+***Development***: How do you do anything useful with data consistently and at scale? programming! I got into software developement almost a decade ago when I realized that I could not do much with my terrabytes of data if I do not have the proper tooling.
+
+**Skills to mentions:** Programming (Python, R, Bash, Java...), CI/CD(Jenkins, CircleCI), High Performance Computing, Docker, Orchestration...
+
+***The Cloud:*** Where do you store and manipulate data flexibly? the cloud is a great and affordable offering that allows anyone to build systems with a low entry barrier.
+
+**Skills to mentions:** AWS enthusiast with 10 AWS certifications: Practitioner, Architect, Developer, SysOps, Architect Pro, DevOPs, Machine Learning, Analytics, Security, Databases.
 
 
-<li>**Miscellaneous:** </li>
-Framework development  
-Software installation and configuration  
-Automated testing using Jenkins  
-Docker, Virtual machines  
-GSoC Admin for 2018/2019/2020  
-Season of Docs Admin for 2019  
-Hackathons: McHacks 2017  
- <br/>
-</ul>
   
 
 *__Open Source software contributions:__*   

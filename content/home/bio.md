@@ -19,7 +19,7 @@ weight = 2
 +++
 
   
-I am a Research Scientist, Software Developer and Data Analyst at McGill University's C3G, probing questions related to human health by building and using bioinformatics tools.  
+I am a Research Scientist, Software Developer and Data Enthusiast looking for interesting problems to solve.
 
 I am an organized modular thinker who breaks problems into their individual, manageable building blocks. I am also an efficient problem solver, with an eye for detail.
 

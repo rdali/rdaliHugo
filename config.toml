@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
 title = "Rola Dali"
-copyright = "&copy; 2020 Rola Dali"
+copyright = "&copy; 2023 Rola Dali"
 theme = "hugo-academic"
 color_theme = "ocean"
 enableEmoji = true
@@ -23,17 +23,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   name = "Rola Dali"
-  role = "Research Scientist, Software Developer and Data Analyst"
-  organization = "@ C3G/McGill University"
-  organization_url = "http://www.computationalgenomics.ca/"
+  role = "Research Scientist, Software Developer and Data Enthusiast"
+  organization = "@ Kyndryl"
+  organization_url = "https://www.kyndryl.com/us/en"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "roladali@gmail.com"
-  address = "Room 4200, 740 Docteur Penfield Av., H3A 1A5, Montreal, Canada"
+  address = "Montreal, Canada"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
 #  phone = "888 888 88 88"
-  skype = "roladali"
-  telegram = ""
+#  skype = "roladali"
+#  telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -80,7 +80,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = ["R", "python", "bash"]
+  highlight_languages = ["python", "R", "bash"]
   # highlight_style = "github"
   # highlight_version = "9.9.0"
 
@@ -167,10 +167,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     icon_pack = "ai"
     link = "https://scholar.google.ca/citations?user=p5Juoy4AAAAJ&hl=en"
 
-  # [[params.socialpub]]
-  #   icon = "researchgate"
-  #   icon_pack = "ai"
-  #   link = "https://www.researchgate.net/profile/Jean_Monlong"
 
   [[params.socialcv]]
     icon = "file-text"
@@ -180,7 +176,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.socialcv]]
     icon = "linkedin-square"
     icon_pack = "fa"
-    link = "https://www.linkedin.com/in/rola-dali-phd-63b7133a/"
+    link = "https://www.linkedin.com/in/roladali"
 
 
 
